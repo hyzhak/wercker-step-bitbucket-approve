@@ -1,0 +1,14 @@
+name: bitbucket-approve
+version: 0.0.1
+description: Approve bitbucket commit on successful build.
+keywords:
+  - notification
+  - approve
+  - bitbucket
+properties:
+  password:
+    type: string
+    required: false
+  username:
+    type: string
+    required: true
