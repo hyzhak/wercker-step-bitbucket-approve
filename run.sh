@@ -1,6 +1,4 @@
 #!/bin/bash
-bitbucket-approve
-
 if [ ! -n "$WERCKER_BITBUCKET_APPROVE_PASSWORD" ]; then
   fail 'Missing password property'
 fi
