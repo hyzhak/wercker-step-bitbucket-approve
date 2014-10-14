@@ -1,5 +1,7 @@
 # slack-post
 
+[![wercker status](https://app.wercker.com/status/c4ecb359dbe5100903bf609c066deed2/m "wercker status")](https://app.wercker.com/project/bykey/c4ecb359dbe5100903bf609c066deed2)
+
 Approve [bitbucket](http://bitbucket.com) commit on successful build.
 
 ### Required fields
