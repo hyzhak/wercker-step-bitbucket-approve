@@ -46,5 +46,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
 
+## 0.0.2
+- fix some typo and bugs
+
 ## 0.0.1
 - initial version
