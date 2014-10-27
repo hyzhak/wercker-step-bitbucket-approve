@@ -1,4 +1,5 @@
 # slack-post
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Hyzhak/wercker-step-bitbucket-approve?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![wercker status](https://app.wercker.com/status/c4ecb359dbe5100903bf609c066deed2/m "wercker status")](https://app.wercker.com/project/bykey/c4ecb359dbe5100903bf609c066deed2)
 
